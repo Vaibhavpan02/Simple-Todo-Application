@@ -1,5 +1,5 @@
-![Homepage View](./screenshots/ss2.png)
-![Add Todo Form](./screenshots/ss1.png)
+![Homepage View](./screenshots/ss1.png)
+![Add Todo Form](./screenshots/ss2.png)
 
 # Todo Application
 
