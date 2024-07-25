@@ -1,7 +1,6 @@
- ```markdown
-    ![Screenshot Description](./screenshots/ss2.png)
-     ![Screenshot Description](./screenshots/ss1.png)
-    ```
+![Homepage View](./screenshots/ss2.png)
+![Add Todo Form](./screenshots/ss1.png)
+
 # Todo Application
 
 ## Overview
